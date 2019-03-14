@@ -2,7 +2,7 @@
 
 This is the source for the Medium.com article on how to migrate a React web Tic Tac Toe game to React native.
 
-[Migrating a web-based React Tic-Tac-Toe game to React Native](https://medium.com).
+[Migrating a Web-Based React Tic-Tac-Toe Game to React Native](https://medium.com).
 
 ## Setup
 
