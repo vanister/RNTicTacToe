@@ -5,7 +5,7 @@
   "author": "vanister",
   "repository": {
     "type": "git",
-    "url": "add-later"
+    "url": "https://github.com/vanister/RNTicTacToe.git"
   },
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
